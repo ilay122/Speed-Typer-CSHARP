@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>data\boldfont.spritefont</Source>
+      <Name>data\boldfont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\documents\visual studio 2013\Projects\Typespeed\Typespeed\Typespeed\bin\x86\Release\Content\data\boldfont.xnb</Output>
+      <Time>2016-07-21T19:09:42.9427708+03:00</Time>
+    </Item>
+    <Item>
+      <Source>data\defaultfont.spritefont</Source>
+      <Name>data\defaultfont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\documents\visual studio 2013\Projects\Typespeed\Typespeed\Typespeed\bin\x86\Release\Content\data\defaultfont.xnb</Output>
+      <Time>2016-07-21T19:09:42.9267746+03:00</Time>
+    </Item>
+    <Item>
+      <Source>data\sound\1.wav</Source>
+      <Name>data\sound\1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\documents\visual studio 2013\Projects\Typespeed\Typespeed\Typespeed\bin\x86\Release\Content\data\sound\1.xnb</Output>
+      <Time>2016-07-21T22:52:40.2767386+03:00</Time>
+    </Item>
+    <Item>
+      <Source>data\sound\10.wav</Source>
+      <Name>data\sound\10</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\documents\visual studio 2013\Projects\Typespeed\Typespeed\Typespeed\bin\x86\Release\Content\data\sound\10.xnb</Output>
+      <Time>2016-07-21T22:52:40.3127634+03:00</Time>
+    </Item>
+    <Item>
+      <Source>data\sound\11.wav</Source>
+      <Name>data\sound\11</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\documents\visual studio 2013\Projects\Typespeed\Typespeed\Typespeed\bin\x86\Release\Content\data\sound\11.xnb</Output>
+      <Time>2016-07-21T22:52:40.3142643+03:00</Time>
+    </Item>
+    <Item>
+      <Source>data\sound\2.wav</Source>
+      <Name>data\sound\2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\documents\visual studio 2013\Projects\Typespeed\Typespeed\Typespeed\bin\x86\Release\Content\data\sound\2.xnb</Output>
+      <Time>2016-07-21T22:52:40.2787394+03:00</Time>
+    </Item>
+    <Item>
+      <Source>data\sound\3.wav</Source>
+      <Name>data\sound\3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\documents\visual studio 2013\Projects\Typespeed\Typespeed\Typespeed\bin\x86\Release\Content\data\sound\3.xnb</Output>
+      <Time>2016-07-21T22:52:40.281241+03:00</Time>
+    </Item>
+    <Item>
+      <Source>data\sound\4.wav</Source>
+      <Name>data\sound\4</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\documents\visual studio 2013\Projects\Typespeed\Typespeed\Typespeed\bin\x86\Release\Content\data\sound\4.xnb</Output>
+      <Time>2016-07-21T22:52:40.2827434+03:00</Time>
+    </Item>
+    <Item>
+      <Source>data\sound\5.wav</Source>
+      <Name>data\sound\5</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\documents\visual studio 2013\Projects\Typespeed\Typespeed\Typespeed\bin\x86\Release\Content\data\sound\5.xnb</Output>
+      <Time>2016-07-21T22:52:40.3017607+03:00</Time>
+    </Item>
+    <Item>
+      <Source>data\sound\6.wav</Source>
+      <Name>data\sound\6</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\documents\visual studio 2013\Projects\Typespeed\Typespeed\Typespeed\bin\x86\Release\Content\data\sound\6.xnb</Output>
+      <Time>2016-07-21T22:52:40.303757+03:00</Time>
+    </Item>
+    <Item>
+      <Source>data\sound\7.wav</Source>
+      <Name>data\sound\7</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\documents\visual studio 2013\Projects\Typespeed\Typespeed\Typespeed\bin\x86\Release\Content\data\sound\7.xnb</Output>
+      <Time>2016-07-21T22:52:40.3062592+03:00</Time>
+    </Item>
+    <Item>
+      <Source>data\sound\8.wav</Source>
+      <Name>data\sound\8</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\documents\visual studio 2013\Projects\Typespeed\Typespeed\Typespeed\bin\x86\Release\Content\data\sound\8.xnb</Output>
+      <Time>2016-07-21T22:52:40.3082603+03:00</Time>
+    </Item>
+    <Item>
+      <Source>data\sound\9.wav</Source>
+      <Name>data\sound\9</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\documents\visual studio 2013\Projects\Typespeed\Typespeed\Typespeed\bin\x86\Release\Content\data\sound\9.xnb</Output>
+      <Time>2016-07-21T22:52:40.3107617+03:00</Time>
+    </Item>
+    <Item>
+      <Source>data\sound\kenter.wav</Source>
+      <Name>data\sound\kenter</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\user\documents\visual studio 2013\Projects\Typespeed\Typespeed\Typespeed\bin\x86\Release\Content\data\sound\kenter.xnb</Output>
+      <Time>2016-07-21T22:52:40.2747369+03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{3A4584E2-C11E-484A-85CB-7A5D9F7A1F58}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\user\documents\visual studio 2013\Projects\Typespeed\Typespeed\TypespeedContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\user\documents\visual studio 2013\Projects\Typespeed\Typespeed\Typespeed\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\user\documents\visual studio 2013\Projects\Typespeed\Typespeed\Typespeed\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\user\documents\visual studio 2013\Projects\Typespeed\Typespeed\Typespeed\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-08-06T22:22:24.2713285+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Typespeed", "Typespeed\Typespeed\Typespeed.csproj", "{E5FCFECA-DF56-43C3-8359-80F7F860E928}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "TypespeedContent", "Typespeed\TypespeedContent\TypespeedContent.contentproj", "{3A4584E2-C11E-484A-85CB-7A5D9F7A1F58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5FCFECA-DF56-43C3-8359-80F7F860E928}.Debug|x86.ActiveCfg = Debug|x86
+		{E5FCFECA-DF56-43C3-8359-80F7F860E928}.Debug|x86.Build.0 = Debug|x86
+		{E5FCFECA-DF56-43C3-8359-80F7F860E928}.Release|x86.ActiveCfg = Release|x86
+		{E5FCFECA-DF56-43C3-8359-80F7F860E928}.Release|x86.Build.0 = Release|x86
+		{3A4584E2-C11E-484A-85CB-7A5D9F7A1F58}.Debug|x86.ActiveCfg = Debug|x86
+		{3A4584E2-C11E-484A-85CB-7A5D9F7A1F58}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
